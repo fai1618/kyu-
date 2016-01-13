@@ -1,0 +1,18 @@
+@font-face{
+    font-family:'threejs';
+    src:url('../threejs.otf');
+}
+
+body{
+        font-size:13px;
+        background-color:black;
+        /*color:rgb(44,255,88);*/
+        color:rgb(0,200,255);
+    }
+
+    /*#settingScreen{
+        float:left;
+        background-color:white;
+        opacity:1.0;
+        display:none;
+    }*/
